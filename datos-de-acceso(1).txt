@@ -1,0 +1,12 @@
+
+datos de acceso al proyecto
+
+ usuario:eyter@gmail.com
+ password:Qw/*12345678
+
+admin
+
+ usuario:peluso@gmail.com
+ password:Qw/*12345678
+
+
